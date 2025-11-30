@@ -44,7 +44,7 @@
 ```bash
 sudo pacman -S qt6-base qt6-tools gcc cmake make
 
-git clone https://aur.archlinux.org/employee_database.git
+git clone https://github.com/klayyy122/employee_database.git
 cd employee_database
 mkdir build && cd build
 cmake ..
