@@ -1,4 +1,4 @@
-# 🏢 Employee Database Management System
+# 🏢 Employee Database
 
 <div align="center">
 
