@@ -50,3 +50,4 @@ mkdir build && cd build
 cmake ..
 cmake --build .
 ./Database
+```
